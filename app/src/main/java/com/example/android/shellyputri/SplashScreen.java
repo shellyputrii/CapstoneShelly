@@ -1,4 +1,4 @@
-package com.example.android.materialme;
+package com.example.android.shellyputri;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
@@ -15,7 +15,7 @@ public class SplashScreen extends AppCompatActivity {
         getWindow().addFlags(WindowManager.LayoutParams.FLAG_FULLSCREEN);
         getSupportActionBar().hide();
 
-        int SPLASH_SCREEN_TIME = 2000; //5 DETIK
+        int SPLASH_SCREEN_TIME = 3000; //3 DETIK
 
         new Handler().postDelayed(new Runnable() {
             @Override

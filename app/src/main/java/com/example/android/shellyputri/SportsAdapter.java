@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.example.android.materialme;
+package com.example.android.shellyputri;
 
 import android.content.Context;
 import android.content.Intent;

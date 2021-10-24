@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.example.android.materialme;
+package com.example.android.shellyputri;
 
 /**
  * Data model for each row of the RecyclerView
