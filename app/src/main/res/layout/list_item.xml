@@ -37,13 +37,13 @@
         android:textColor="?android:textColorSecondary" />
 
     <TextView
+        android:id="@+id/subTitle"
+        style="@style/SportsDetailText"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_below="@id/newsTitle"
-        android:id="@+id/subTitle"
-        android:text="@string/sports_info_placeholder"
         android:padding="8dp"
-        style="@style/SportsDetailText" />
+        android:text="@string/sports_info_placeholder" />
 
 </RelativeLayout>
 </android.support.v7.widget.CardView>

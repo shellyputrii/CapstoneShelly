@@ -1,28 +1,22 @@
 <resources>
-    <string name="app_name">Material Me!</string>
+    <string name="app_name">Aplikasi Daftar Hotel</string>
     <string name="title_placeholder">Title</string>
-    <string name="news_placeholder">News</string>
+    <string name="news_placeholder">Deskripsi :</string>
     <string name="sports_info_placeholder">Here is some news</string>
-    <string name="subtitle_detail_text">What is Lorem Ipsum? Lorem Ipsum is simply dummy text of the
-        printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text
-        ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make
-        a type specimen book. It has survived not only five centuries, but also the leap into electronic
-        typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release
-        of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing
-        software like Aldus PageMaker including versions of Lorem Ipsum.</string>
+    <string name="subtitle_detail_text">Deskripsi Hotel disini</string>
 
     <string-array name="sports_titles">
-        <item>Baseball</item>
-        <item>Badminton</item>
-        <item>Basketball</item>
-        <item>Bowling</item>
-        <item>Cycling</item>
-        <item>Golf</item>
-        <item>Running</item>
-        <item>Football</item>
-        <item>Swimming</item>
-        <item>Table Tennis</item>
-        <item>Tennis</item>
+        <item>Hotel Harper Purwakarta</item>
+        <item>Prime Plaza Hotel Purwakarta</item>
+        <item>Hotel Khalista</item>
+        <item>Hotel Permata Purwakarta</item>
+        <item>Intan Hotel</item>
+        <item>Grand Situ Buleud Hotel</item>
+        <item>Hotel Sederhana</item>
+        <item>Hotel La Derra</item>
+        <item>Hotel Abah</item>
+        <item>Hotel Grand Permata</item>
+        <item>Hotel Ciwangi</item>
     </string-array>
 
     <string-array name="sports_info">

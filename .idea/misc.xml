@@ -3,7 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/ACER/AndroidStudioProjects/CapstoneShelly/app/src/main/res/layout/activity_detail.xml" value="0.1598731884057971" />
         <entry key="..\:/Users/ACER/AndroidStudioProjects/CapstoneShelly/app/src/main/res/layout/activity_main.xml" value="0.16394927536231885" />
+        <entry key="..\:/Users/ACER/AndroidStudioProjects/CapstoneShelly/app/src/main/res/layout/activity_splash_screen.xml" value="0.1598731884057971" />
         <entry key="..\:/Users/ACER/AndroidStudioProjects/CapstoneShelly/app/src/main/res/layout/list_item.xml" value="0.16394927536231885" />
         <entry key="..\:/Users/ACER/AndroidStudioProjects/MaterialMe-Resource - Copy/app/src/main/res/drawable/ic_reset.xml" value="0.19282051282051282" />
         <entry key="..\:/Users/ACER/AndroidStudioProjects/MaterialMe-Resource - Copy/app/src/main/res/drawable/splash_bg.xml" value="0.19282051282051282" />
